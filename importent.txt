@@ -1,0 +1,1 @@
+for deving in ck + cks u need mingw (gcc)
